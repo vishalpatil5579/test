@@ -1,6 +1,0 @@
-{{#user}}
-Name: PATIL VISHAL
-Skills: Linux,git,AWS,DEvOps,jenkins,docker,kubernetes,ansible,tomcat.
-Email: pv2646@gmail.com
-{{/user}}
-
